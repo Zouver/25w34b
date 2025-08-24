@@ -1,0 +1,22 @@
+https://cdn.modrinth.com/data/P7dR8mSH/versions/AGkgqBTc/fabric-api-0.132.1%2B1.21.9.jar
+
+# Source: https://modrinth.com/datapack/veinminer
+https://cdn.modrinth.com/data/OhduvhIc/versions/VqOHypDZ/veinminer-fabric-2.4.9.jar
+https://cdn.modrinth.com/data/aTaCgKLW/versions/IeASn7sM/silk-all-1.11.3.jar
+https://cdn.modrinth.com/data/Ha28R6CL/versions/Y91MRWtG/fabric-language-kotlin-1.13.5%2Bkotlin.2.2.10.jar
+
+# Source: https://modrinth.com/mod/jade
+https://cdn.modrinth.com/data/nvQzSEkH/versions/o3aatc5Q/Jade-1.21.8-Fabric-19.3.2.jar
+
+# Source: https://modrinth.com/mod/moogs-voyager-structures
+https://cdn.modrinth.com/data/OQAgZMH1/versions/LIfNH7BC/mvs-4.4.6-1.21.8.jar
+
+# Source: https://modrinth.com/mod/fallingtree
+https://cdn.modrinth.com/data/Fb4jn8m6/versions/vs4XSgGN/FallingTree-1.21.8-1.21.8.2.jar
+
+# Not working
+# https://cdn.modrinth.com/data/gqRXDo8B/versions/zsczq7H3/villagernames-1.21.8-8.3.jar
+# https://cdn.modrinth.com/data/e0M1UDsY/versions/mld0ZPD9/collective-1.21.8-8.4.jar
+
+# Raise error: java.lang.NoClassDefFoundError: net/minecraft/class_3230$class_10558
+# https://cdn.modrinth.com/data/fALzjamp/versions/inWDi2cf/Chunky-Fabric-1.4.40.jar
